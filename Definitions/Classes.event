@@ -1,0 +1,4 @@
+#define Commoner 0x3d
+#define CommonerF 0x3e
+#define Noble 0x54
+#define NobleF 0x55

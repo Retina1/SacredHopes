@@ -1,0 +1,31 @@
+##Desc_ShezP
+A young mercenary seeking[N]
+a purpose to his life.[X]
+
+##Desc_ShezSB
+An officer in the Adrestian army.[N]
+Seeks a purpose to his life.[X]
+
+##Desc_ShezAG
+An officer in the Faerghus army.[N]
+Seeks a purpose to his life.[X]
+
+##Desc_ShezGW
+An officer in the Leicester army.[N]
+Seeks a purpose to his life.[X]
+
+##Desc_Edelgard
+The heir to the throne of Adrestia.[N]
+Will do anything for her ideal world.[X]
+
+##Desc_Dimitri
+The heir to the throne of Faerghus.[N]
+A solemn man dedicated to his people.[X]
+
+##Desc_Claude
+The heir to House Reigan of Leicester.[N]
+Keeps his plans close to his chest.[X]
+
+##Desc_Byleth
+The famed Ashen Demon, and Shez's[N]
+arch-rival. Quiet and observant.[X]

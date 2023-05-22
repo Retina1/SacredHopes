@@ -1,0 +1,4 @@
+#define ShezP 0x1
+#define ShezSB 0x2
+#define ShezAG 0x3
+#define ShezGW 0x4

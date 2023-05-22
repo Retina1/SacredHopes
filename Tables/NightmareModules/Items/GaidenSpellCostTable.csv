@@ -1,0 +1,257 @@
+INLINE GaidenSpellCostTable,Spell Cost
+Nothing,0
+Iron Sword,0
+Wingthresher,0
+Steel Sword,0
+Silver Sword,0
+Devil Sword,0
+Ashiya Sword,0
+Levin Sword,0
+Venin Edge,0
+Rapier,0
+Sword of Zoltan,0
+Brave Sword,0
+Wo Dao,0
+Killing Edge,0
+Armorslayer,0
+Mercurius,0
+Knight Captain Swd,0
+Athame,0
+Ridill,0
+Shamshir,0
+Iron Lance,0
+Flycatcher,0
+Steel Lance,0
+Silver Lance,0
+Venin Lance,0
+Brave Lance,0
+Killer Lance,0
+Horseslayer,0
+Javelin,0
+Spear,0
+Blessed Lance,0
+Iron Axe,0
+Steel Axe,0
+Silver Axe,0
+Venin Axe,0
+Brave Axe,0
+Killer Axe,0
+Mace,0
+Hammer,0
+Devil Axe,0
+Hand Axe,0
+Tomahawk,0
+Bolt Axe,0
+Axe of Zoltan,0
+Short Axe,0
+Iron Bow,0
+Steel Bow,0
+Silver Bow,0
+Venin Bow,0
+Killer Bow,0
+Brave Bow,0
+Blessed Bow,0
+Longbow,0
+Ballista,0
+Iron Ballista,0
+Killer Ballista,0
+Fire,2
+Bolganone,3
+Ragnarok,7
+Thunder,2
+Thoron,6
+Bolting,18
+Wind,1
+Cutting Gale,4
+Excalibur,6
+Blizzard,2
+Fimbulvetr,4
+Sagittae,7
+Meteor,18
+Agnea's Arrow,12
+Miasma,2
+Mire,3
+Swarm,4
+Banshee,6
+Death,7
+Heal,5
+Mend,8
+Recover,12
+Physic,7
+Fortify,20
+Restore,5
+Silence,15
+Sleep,25
+Berserk,40
+Warp,20
+Rescue,15
+Torch,7
+Hammerne,50
+Unlock,12
+Barrier,9
+Dragon Axe,0
+Angelic Robe,0
+Energy Ring,0
+Secret Book,0
+Speedwings,0
+Goddess Icon,0
+Dragonshield,0
+Talisman,0
+Swiftsoles,0
+Body Ring,0
+Hero Crest,0
+Knight Crest,0
+Orion's Bolt,0
+Elysian Whip,0
+Guiding Ring,0
+Chest Key,0
+Door Key,0
+Lockpick,0
+Vulnerary,0
+Elixir,0
+Pure Water,0
+Antitoxin,0
+Torch,0
+Filli Shield,0
+Member Card,0
+Silver Card,0
+White Gem,0
+Blue Gem,0
+Red Gem,0
+Gold,0
+Reginleif,0
+Chest Key (5),0
+Mine (DUMMY),0
+Light Rune (DUMMY),0
+Hoplon Guard,0
+Filla's Might (DUMMY),0
+Ninis's Grace (DUMMY),0
+Thor's Ire (DUMMY),0
+Set's Litany (DUMMY),0
+Shadowkiller,0
+Bright Lance,0
+Fiendcleaver,0
+Beacon Bow,0
+Sieglinde,0
+Battle Axe,0
+Ivaldi,8
+Master Seal,0
+Metis's Tome,0
+Heaven Seal (DUMMY),0
+Sharp Claw,0
+Latona,14
+Dragonspear,0
+Vidofnir,0
+Naglfar,8
+Wretched Air,0
+Audhulma,0
+Siegmund,0
+Garm,0
+Nidhogg,0
+Heavy Lance,0
+Short Spear,0
+Ocean Seal,0
+Lunar Brace,0
+Solar Brace,0
+1G,0
+5G,0
+10G,0
+50G,0
+100G,0
+3000G,0
+5000G,0
+Wind Sword,0
+Vulnerary,0
+Vulnerary (green note),0
+Vulnerary (red note),0
+Dance,0
+Nightmare,0
+Demon Stone (DUMMY),0
+Demon Light,0
+Ravager,0
+Dragonstone,0
+Demon Surge,0
+Shadowshot,0
+Rotten Claw,0
+Fetid Claw,0
+Poison Claw,0
+Lethal Talon,0
+Fiery Fang,0
+Hellfang,0
+Evil Eye,0
+Crimson Eye,0
+Stone,0
+Aircalibur,0
+Juna Fruit,0
+150G,0
+200G,0
+Black Gem,0
+Gold Gem,0
+Skill Scroll,0
+Thunderbrand,0
+Blutgang,0
+Creator Swd,0
+Dark Creator Swd,0
+Sword of Seiros,0
+Sword of Begalta,0
+Sword of Moralta,0
+Crescent Sickle,0
+Arrow of Indra,0
+Lance of Zoltan,0
+Scythe of Sariel,0
+Gradivus,0
+Lance of Ruin,0
+Areadbhar,0
+Luin,0
+Spear of Assal,0
+Hauteclere,0
+Dahaka,0
+Aymr,0
+Freikugel,0
+Crusher,0
+Labraunda,0
+Axe of Ukonvasara,0
+Magic Bow,0
+Bow of Zoltan,0
+Parthia,0
+Failnaught,0
+Tathlum Bow,0
+The Inexhaustible,0
+Luna,9
+Dark Spikes,11
+Hades,13
+Bohr,26
+Quake,42
+"Hrotti (kills horses, hapi)",15
+Ichor Scroll (mercedes),12
+Suttungr's Mystery (lysithea),21
+Wind Caller's Genesis (monica),8
+Scroll of Talos (constance),15
+Amalthea (flayn),5
+Iron Gauntlets,0
+Steel Knuckles,0
+Silver Gauntlets,0
+Killer Knuckles,0
+Wolf Fangs,0
+Aura Knuckles,0
+Dragon Claws,0
+Vajra-Mushti,0
+Jarngreipr,0
+Nosferatu,0
+Seraphim,4
+Aura,8
+Abraxas,12
+0xcb,0
+0xcc,0
+0xcd,0
+0xc9,0
+0xca,0
+0xcb,0
+0xcc,0
+0xcd,0
+0xc9,0
+0xca,0
+0xcb,0
+0xcc,0
+0xcd,0
+0xff,0

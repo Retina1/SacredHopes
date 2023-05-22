@@ -1,0 +1,10 @@
+##Name_Commoner
+Commoner[X]
+##Desc_Commoner
+An untrained soldier of low[N]
+birth and great potential.[X]
+##Name_Noble
+Noble[X]
+##Desc_Noble
+An untrained soldier of high[N]
+birth and great potential.[X]
