@@ -1,61 +1,61 @@
 INLINE MagCharTable,Base Magic,Magic Growth
 None,0,0
-Shez (Prologue),4,45
-Shez (SB),4,45
-Shez (AG),4,45
-Shez (GW),4,45
+Shez (Prologue),2,45
+Shez (SB),2,45
+Shez (AG),2,45
+Shez (GW),2,45
 Edelgard (SB),3,40
-Hubert (SB),2,25
-Ferdinand (SB),0,5
-Dorothea (all),2,15
-Bernadetta (all),1,10
+Hubert (SB),6,60
+Ferdinand (SB),2,10
+Dorothea (all),5,55
+Bernadetta (all),3,30
 Petra (all),0,5
-Caspar (SB),1,10
-Linhardt (all),5,65
-Monica (SB),1,60
-Dimitri (AG),0,5
-Dedue (AG),0,15
-Felix (AG),1,10
-Sylvain (AG),0,10
-Ashe (all),2,25
-Ingrid (AG),5,50
-Mercedes (SB/AG),0,10
-Annette (AG),0,5
-"Rodrigue (AG, Byleth!)",1,10
-Claude (GW),11,30
-Lorenz (all),2,45
-Hilda (GW),5,50
-Leonie (SB/GW),0,5
-Lysithea (SB/GW),0,50
-Raphael (all),3,35
-Ignatz (all),0,5
-Marianne (all),2,85
-Holst (GW),10,50
-Yuri (all),0,20
-Balthus (all),4,20
-Constance (all),2,15
-Hapi (all),13,50
-"Byleth (all, Byleth!)",3,10
-"Jeralt (all, Byleth!)",2,0
-Catherine (AG),10,40
-Shamir (all),2,10
-Flayn (AG),10,45
-Seteth (AG),2,5
-Manuela (SB),4,5
-Jeritza (SB/AG),7,15
-Sothis (secret),2,10
-Rhea (secret),0,0
-Arval (secret),0,0
-Gilbert (AG),0,0
-"Alois (all, Byleth!)",0,0
-Cyril (AG),0,0
-Gatekeeper (secret),0,0
-Nader (GW),0,0
-Hanneman (SB),0,0
-"Judith (GW, Byleth!)",0,0
-"Randolph (SB, Byleth!)",0,0
-"Jetz (jeralt merc, Byleth!)",0,0
-Anna (all),0,0
+Caspar (SB),1,5
+Linhardt (all),5,50
+Monica (SB),7,65
+Dimitri (AG),1,15
+Dedue (AG),0,5
+Felix (AG),4,25
+Sylvain (AG),2,10
+Ashe (all),2,20
+Ingrid (AG),4,30
+Mercedes (SB/AG),5,50
+Annette (AG),6,60
+"Rodrigue (AG, Byleth!)",8,45
+Claude (GW),2,25
+Lorenz (all),4,45
+Hilda (GW),2,15
+Leonie (SB/GW),1,5
+Lysithea (SB/GW),8,70
+Raphael (all),0,5
+Ignatz (all),3,30
+Marianne (all),5,55
+Holst (GW),2,20
+Yuri (all),6,40
+Balthus (all),5,35
+Constance (all),6,55
+Hapi (all),7,60
+"Byleth (all, Byleth!)",6,45
+"Jeralt (all, Byleth!)",3,15
+Catherine (AG),2,10
+Shamir (all),1,10
+Flayn (AG),7,45
+Seteth (AG),5,35
+Manuela (SB),5,40
+Jeritza (SB/AG),7,50
+Sothis (secret),6,80
+Rhea (secret),12,70
+Arval (secret),14,90
+Gilbert (AG),1,5
+"Alois (all, Byleth!)",1,5
+Cyril (AG),0,10
+Gatekeeper (secret),3,30
+Nader (GW),0,5
+Hanneman (SB),7,50
+"Judith (GW, Byleth!)",2,20
+"Randolph (SB, Byleth!)",1,5
+"Jetz (jeralt merc, Byleth!)",4,40
+Anna (all),6,45
 0x39 -,0,0
 0x3A -,0,0
 0x3B Lyon's Summon,0,0
@@ -63,14 +63,14 @@ Anna (all),0,0
 0x3D <'Summonern'>,0,0
 0x3E Knoll's Summon,0,0
 0x3F Ewan's Summon,0,0
-0x40 Lyon (Ch 17),13,50
-eidk,6,85
-Berling (prologue merc),3,10
-Getz (prologue merc),2,5
-Lazley (prologue merc),10,40
+0x40 Lyon (Ch 17),0,0
+eidk,0,0
+Berling (prologue merc),3,25
+Getz (prologue merc),1,10
+Lazley (prologue merc),2,15
 LAST BWL SLOT Miklan (AG),2,5
 Breguet (Ch 1),0,5
-Bone (Ch 2),0,5
+Bone (Ch 2),3,5
 Bazba (Ch 3),1,10
 Entombed (Ch 4),1,5
 Saar (Ch 5),1,5

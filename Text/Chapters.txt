@@ -1,0 +1,93 @@
+## _Prologue
+Ch.0: Crossed Roads[X]
+## _Chapter1
+Ch.1: A Chance Encounter[X]
+## _Chapter2
+Ch.2: Three Houses[X]
+## _Chapter3A
+Ch.3: Shadows of Adrestia[X]
+## _Chapter4A
+Ch.4: The Struggle Commences[X]
+## _Chapter5A
+Ch.5: Skirmish in the Fog[X]
+## _Chapter6A
+Ch.6: Bridge of Betrayal[X]
+## _Chapter7A
+Ch.7: The Triumph of Valor[X]
+## _Chapter8A
+Ch.8: The Maiden's Peril[X]
+## _Chapter9A
+Ch.9: Unrest in Enbarr[X]
+## _Chapter10A
+Ch.10: Shifting History[X]
+## _Chapter11A
+Ch.11: Heroic Bloodlines[X]
+## _Chapter12A
+Ch.12: The Rising Darkness[X]
+## _Chapter13A
+Ch.13: Severing the Past[X]
+## _Chapter14A
+Ch.14: A Clash of Ambitions[X]
+## _Chapter14AAlt
+Ch.14: Torment[X]
+## _ChapterFA
+Final: A Path Forward[X]
+
+## _Chapter3B
+Ch.3: Crisis in Fhirdiad[X]
+## _Chapter4B
+Ch.4: To War![X]
+## _Chapter5B
+Ch.5: Skirmish in the Fog[X]
+## _Chapter6B
+Ch.6: Conspiracy in the Air[X]
+## _Chapter7B
+Ch.7: The King Awakens[X]
+## _Chapter8B
+Ch.8: The Blood-Stained Lance[X]
+## _Chapter9B
+Ch.9: Reunion[X]
+## _Chapter10B
+Ch.10: Fanaticism[X]
+## _Chapter11B
+Ch.11: Reprisal[X]
+## _Chapter12B
+Ch.12: Trick of the Goddess[X]
+## _Chapter13B
+Ch.13: Clash of Torment[X]
+## _Chapter14B
+Ch.14: The Absent Emperor[X]
+## _ChapterFB
+Final: The End of Tragedy[X]
+
+## _Chapter3C
+Ch.3: Battle for the Locket[X]
+## _Chapter4C
+Ch.4: To War![X]
+## _Chapter5C
+Ch.5: The Golden Guardian[X]
+## _Chapter6C
+Ch.6: The Leader's Stratagem[X]
+## _Chapter7C
+Ch.7: A Contest of Beasts[X]
+## _Chapter8C
+Ch.8: What Makes a King[X]
+## _Chapter9C
+Ch.9: End of the Alliance[X]
+## _Chapter10C
+Ch.10: Love and Loss[X]
+## _Chapter11C
+Ch.11: The Sword Swings Wide[X]
+## _Chapter12C
+Ch.12: Two Kings[X]
+## _Chapter13C
+Ch.13: Darkness Attacks[X]
+## _Chapter14C
+Ch.14: A Symbol of the Past[X]
+## _ChapterFC
+Final: Field of Beginnings[X]
+
+## _Chapter15
+Ch.15: Hour of Vengeance[X]
+## _Chapter16
+Ch.16: Into the Chasm[X]

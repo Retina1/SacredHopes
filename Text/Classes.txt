@@ -1,10 +1,82 @@
-##Name_Commoner
+##CommonerName
 Commoner[X]
-##Desc_Commoner
+##CommonerDesc
 An untrained soldier of low[N]
 birth and great potential.[X]
-##Name_Noble
+##NobleName
 Noble[X]
-##Desc_Noble
+##NobleDesc
 An untrained soldier of high[N]
 birth and great potential.[X]
+
+##FluegelName
+Fluegel[X]
+##FluegelDesc
+A dual-wielding mercenary with[N]
+mysterious magical abilities.[X]
+##ArmoredLordName ^
+Armored Lord[X]
+##ArmoredLordDesc
+An imposing armored axe-user[N]
+with some magical capability.[X]
+##HighLordName
+High Lord[X]
+##HighLordDesc
+A noble lancer who boldly rushes[N]
+into any and all battles.[X]
+##WyvernMasterName ^
+Wyvern Master[X]
+##WyvernMasterDesc
+A marksman who fights aloft a[N]
+swift and deadly wyvern.[X]
+##SilverheartName
+Silverheart[X]
+##SilverheartDesc
+A fearsome spellsword known[N]
+far and wide for their skill.[X]
+
+##MercenaryName
+Mercenary[X]
+##MercenaryDesc
+Well-rounded swordsmen with[N]
+no particular weakness.[X]
+##FighterName
+Fighter[X]
+##FighterDesc
+Sturdy combatants who use axes[N]
+and fists to carve through foes.[X]
+##SoldierName
+Soldier[X]
+##SoldierDesc
+Well-rounded lancers who[N]
+dream of battlefield glory.[X]
+##ArcherName
+Archer[X]
+##ArcherDesc
+Marksmen whose arrows can pierce[N]
+the wings of fliers.[X]
+##MageName
+Mage[X]
+##MageDesc
+Scholars who harness the power[N]
+of black magic to win the day.[X]
+##PriestName
+Priest[X]
+##PriestDesc
+Devout followers of Seiros who[N]
+channel their faith into white magic.[X]
+##DarkMageName
+Dark Mage[X]
+##DarkMageDesc
+Ambitious scholars who use the[N]
+fell power of dark magic.[X]
+##CavalierName
+Cavalier[X]
+##CavalierDesc
+Balanced warriors who fight on[N]
+horseback with a variety of weapons.[X]
+##ArmorKnightName
+Armor Knight[X]
+##ArmorKnightDesc
+Heavily armored knights who can[N]
+weather any physical assault.[X]

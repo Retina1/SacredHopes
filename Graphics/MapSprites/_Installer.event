@@ -1,0 +1,84 @@
+ALIGN 4
+AP1:
+#incbin "AP1.bin"
+
+ALIGN 4
+AP2:
+#incbin "AP2.bin"
+
+ALIGN 4
+AP2General:
+#incbin "AP2(General).bin"
+
+ALIGN 4
+AP2Swordmaster:
+#incbin "AP2(Swordmaster).bin"
+
+ALIGN 4
+AP2Wyvern:
+#incbin "AP2(Wyvern).bin"
+
+ALIGN 4
+AP2Hero:
+#incbin "AP2(Hero).bin"
+
+ALIGN 4
+AP4WyvernLord:
+#incbin "AP4(WyvernLord).bin"
+
+ALIGN 4
+ShezSt:
+#incbin "ShezSt.dmp"
+ALIGN 4
+ShezMv:
+#incbin "ShezMv.dmp"
+ALIGN 4
+EdelgardSt:
+#incbin "EdelgardSt.dmp"
+ALIGN 4
+EdelgardMv:
+#incbin "EdelgardMv.dmp"
+ALIGN 4
+DimitriSt:
+#incbin "DimitriSt.dmp"
+ALIGN 4
+DimitriMv:
+#incbin "DimitriMv.dmp"
+ALIGN 4
+ClaudeSt:
+#incbin "ClaudeSt.dmp"
+ALIGN 4
+ClaudeMv:
+#incbin "ClaudeMv.dmp"
+
+
+
+
+ALIGN 4
+NobleMSt:
+#incbin "NobleMSt.dmp"
+ALIGN 4
+NobleMMv:
+#incbin "NobleMMv.dmp"
+
+ALIGN 4
+NobleFSt:
+#incbin "NobleFSt.dmp"
+ALIGN 4
+NobleFMv:
+#incbin "NobleFMv.dmp"
+
+ALIGN 4
+CommonerMSt:
+#incbin "CommonerMSt.dmp"
+ALIGN 4
+CommonerMMv:
+#incbin "CommonerMMv.dmp"
+
+
+ALIGN 4
+CommonerFSt:
+#incbin "CommonerFSt.dmp"
+ALIGN 4
+CommonerFMv:
+#incbin "CommonerFMv.dmp"

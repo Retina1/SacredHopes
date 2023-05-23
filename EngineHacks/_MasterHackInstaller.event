@@ -9,7 +9,7 @@
 
 // hack configuration file
 #include "Config.event"
-
+#include "AddressPatches.event"
 #include "Necessary/UnitMenu/_UnitMenuDefs.event"
 
 ////////////////////////////////SUPPORTING CHANGES
@@ -224,3 +224,9 @@ POP
     MESSAGE "Using EMS Save/Suspend Expansion"
     #include "Necessary/ExpandedModularSave/ExModularSave.event"
 
+// Character Promotions
+#include "SacredHopes/CharBasedPromos/CharBasedPromos.event"
+
+#include "FixedAutolevels.event"
+#include "NewPromoGains.lyn.event"
+#include "NoUnbreakableDurability.lyn.event"

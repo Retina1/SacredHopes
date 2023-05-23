@@ -1,0 +1,93 @@
+#ifdef _FE8_
+#ifndef CHAR_BASED_PROMOS
+#define CHAR_BASED_PROMOS
+
+PUSH
+ORG $CC5F6
+SHORT 0x46C0 //nop
+jumpToHack(CharBasedPromos)
+ORG $CC5DE
+SHORT 0x46C0 //nop
+jumpToHack(CharBasedPromosPrep)
+POP
+
+#include "CharBasedPromos.lyn.event"
+#include "CharBasedPromosPrepScreen.lyn.event"
+
+MESSAGE CharBasedPromos
+
+#define CharBasedPromoEntry(charID,startingClass,promotedClass) "BYTE charID startingClass promotedClass 0"
+#define CharBasedPromoEnd "WORD 0"
+
+ALIGN 4
+CharBasedPromoList:
+CharBasedPromoEntry(ShezP,Mercenary,Fluegel)
+CharBasedPromoEntry(ShezP,Fluegel,Asura)
+CharBasedPromoEntry(ShezSB,Mercenary,Fluegel)
+CharBasedPromoEntry(ShezSB,Fluegel,Asura)
+CharBasedPromoEntry(ShezAG,Mercenary,Fluegel)
+CharBasedPromoEntry(ShezAG,Fluegel,Asura)
+CharBasedPromoEntry(ShezGW,Mercenary,Fluegel)
+CharBasedPromoEntry(ShezGW,Fluegel,Asura)
+
+CharBasedPromoEntry(Edelgard,FighterF,ArmoredLord)
+CharBasedPromoEntry(Edelgard,ArmoredLord,Emperor)
+CharBasedPromoEntry(Hubert,DarkMage,DarkBishop)
+CharBasedPromoEntry(Ferdinand,Cavalier,GoldKnight)
+CharBasedPromoEntry(Dorothea,MageF,DancerF)
+CharBasedPromoEntry(Bernadetta,ArcherF,SniperF)
+CharBasedPromoEntry(Petra,MyrmidonF,AssassinF)
+CharBasedPromoEntry(Caspar,Fighter,Berserker)
+CharBasedPromoEntry(Linhardt,Priest,HolyKnight)
+CharBasedPromoEntry(Monica,MageF,SageF)
+
+CharBasedPromoEntry(Dimitri,Soldier,HighLord)
+CharBasedPromoEntry(Dimitri,HighLord,GreatLord)
+CharBasedPromoEntry(Dedue,ArmorKnight,FortKnight)
+CharBasedPromoEntry(Felix,Myrmidon,Swordmaster)
+CharBasedPromoEntry(Sylvain,Cavalier,GreatKnight)
+CharBasedPromoEntry(Ashe,Archer,BowKnight)
+CharBasedPromoEntry(Annette,MageF,SageF)
+CharBasedPromoEntry(Mercedes,PriestF,BishopF)
+CharBasedPromoEntry(Ingrid,PegasusKnight,FalconKnight)
+//rodrigue is holy knight
+
+CharBasedPromoEntry(Claude,Archer,WyvernMaster)
+CharBasedPromoEntry(Claude,WyvernMaster,Barbarossa)
+CharBasedPromoEntry(Lorenz,Cavalier,DarkKnight)
+CharBasedPromoEntry(Hilda,FighterF,WarriorF)
+CharBasedPromoEntry(Leonie,CavalierF,PaladinF)
+CharBasedPromoEntry(Raphael,Fighter,Berserker)
+CharBasedPromoEntry(Ignatz,Archer,Sniper)
+CharBasedPromoEntry(Lysithea,DarkMageF,DarkBishopF)
+CharBasedPromoEntry(Marianne,PriestF,HolyKnightF)
+//holst is swordmaster
+
+//yuri is prepromoted always
+//balthus unpromoted in SB/GW
+//constance unpromoted in SB
+//hapi unpromoted in SB/AG
+CharBasedPromoEntry(Balthus,Fighter,WarMonk)//eventually swap to war monk
+CharBasedPromoEntry(Constance,MageF,DarkFlier)//swap to dark flier
+CharBasedPromoEntry(Hapi,DarkMageF,DarkKnightF)
+
+//byleth will have silverheart and enlightened one
+//most faculty starts promoted
+CharBasedPromoEntry(Byleth,Silverheart,EnlightenedOne)
+CharBasedPromoEntry(Flayn,PriestF,BishopF)
+CharBasedPromoEntry(Seteth,WyvernRider,WyvernLord)
+CharBasedPromoEntry(Cyril,Archer,Warrior)
+CharBasedPromoEntry(Jetz,Brigand,Berserker)
+CharBasedPromoEntry(Anna,MyrmidonF,SwordmasterF)
+CharBasedPromoEntry(Getz,Brigand,WyvernLord)
+CharBasedPromoEntry(Lazley,FighterF,BerserkerF)
+
+CharBasedPromoEnd
+
+
+#endif // CHAR_BASED_PROMOS
+#else
+ERROR Char Based Promos is only for FE8!
+#endif // _FE8_
+
+

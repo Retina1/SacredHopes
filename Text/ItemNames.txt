@@ -1,2 +1,8 @@
-##Name_DarkSpikes
+##KnightSwordName ^
+Knight Sword[X]
+
+##DarkSpikesName
 Dark Spikes[X]
+
+##IronGauntletName ^
+Iron Gauntlets[X]

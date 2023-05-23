@@ -124,9 +124,23 @@ a skill when used.[X]
 
 #include "ItemNames.txt"
 #include "ItemDescs.txt"
+#include "Chapters.txt"
+#include "Enemies.txt"
 
 #include "unitmenu_text.txt"
 
 #include "skilldesc_text.txt"
 
 #include "unitinfo_text.txt"
+
+#0x4ee ^
+Luck[X]
+#0x4f6
+Mov[X]
+
+#0x509
+Faith[X]
+#0x50a ^
+Reason[X]
+#0x50b
+Fists[X]

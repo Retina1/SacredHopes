@@ -1,0 +1,29 @@
+#include "_Installer.event"
+
+#define StandingMapSpriteTable 0x8AF880
+#define MovingMapSpriteTable 0x9A2E00 
+
+#define StandingMapSprite(aId, size, gfxPointer) "PUSH; ORG StandingMapSpriteTable + (aId * 8); SHORT 0 size; POIN gfxPointer; POP"
+#define MovingMapSprite(aId, apPointer, gfxPointer) "PUSH; ORG MovingMapSpriteTable + ((aId - 1) * 8); POIN gfxPointer apPointer; POP"
+
+#define MapSprite16x16 0
+#define MapSprite16x32 1
+#define MapSprite32x32 2
+
+StandingMapSprite(0x0, 0, ShezSt)
+StandingMapSprite(0x1, 1, EdelgardSt)
+StandingMapSprite(0x2, 0, DimitriSt)
+StandingMapSprite(0x3, 1, ClaudeSt)
+StandingMapSprite(0x2d, 0, CommonerMSt)
+StandingMapSprite(0x2e, 0, CommonerFSt)
+StandingMapSprite(0x45, 0, NobleMSt)
+StandingMapSprite(0x46, 0, NobleFSt)
+
+MovingMapSprite(Fluegel, AP1, ShezMv)
+MovingMapSprite(ArmoredLord, AP1, EdelgardMv)
+MovingMapSprite(HighLord, AP1, DimitriMv)
+MovingMapSprite(WyvernMaster, AP1, ClaudeMv)
+MovingMapSprite(Commoner, AP1, CommonerMMv)
+MovingMapSprite(CommonerF, AP1, CommonerFMv)
+MovingMapSprite(Noble, AP1, NobleMMv)
+MovingMapSprite(NobleF, AP1, NobleFMv)

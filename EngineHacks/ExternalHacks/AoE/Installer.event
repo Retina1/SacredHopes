@@ -377,7 +377,7 @@ BYTE 2 // Amount of weapon uses to deplete.
 BYTE UseWepEffectiveness|UseWepRange // Config2 
 
 // Next entry 
-BYTE 0 0 0 Elfire
+BYTE 0 0 0 Bolganone
 BYTE 0 0 0 0 // Usable by anyone carrying a sword they can wield 
 BYTE 0 FriendlyFireBool|DepleteItemBool|MagBasedBool|HitResBool
 BYTE 0 0 // mt, randMt 
@@ -391,7 +391,7 @@ BYTE UseWepMt|UseWepEffectiveness|UseWepRange // Config2
 
 
 // Next entry 
-BYTE 0 0 0 Thunder
+BYTE 0 0 0 Thoron
 BYTE 0 0 0 0 // Usable by anyone carrying a sword they can wield 
 BYTE 0 FriendlyFireBool|DepleteItemBool|MagBasedBool|HitResBool
 BYTE 0 0 // mt, randMt 

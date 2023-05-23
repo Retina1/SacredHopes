@@ -1,2 +1,8 @@
-##Desc_DarkSpikes ^
+##KnightSwordDesc ^
+Byleth's sword. A keepsake of Jeralt's.[X]
+
+##DarkSpikesDesc ^
 Advanced dark magic. Slays horses. Cost: 11 HP.[X]
+
+##IronGauntletDesc ^
+Basic gauntlets. Strike twice when initiating.[X]

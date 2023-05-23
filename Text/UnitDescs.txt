@@ -1,15 +1,12 @@
 ##Desc_ShezP
 A young mercenary seeking[N]
 a purpose to his life.[X]
-
 ##Desc_ShezSB
 An officer in the Adrestian army.[N]
 Seeks a purpose to his life.[X]
-
 ##Desc_ShezAG
 An officer in the Faerghus army.[N]
 Seeks a purpose to his life.[X]
-
 ##Desc_ShezGW
 An officer in the Leicester army.[N]
 Seeks a purpose to his life.[X]
@@ -17,15 +14,173 @@ Seeks a purpose to his life.[X]
 ##Desc_Edelgard
 The heir to the throne of Adrestia.[N]
 Will do anything for her ideal world.[X]
-
 ##Desc_Dimitri
 The heir to the throne of Faerghus.[N]
 A solemn man dedicated to his people.[X]
-
 ##Desc_Claude
 The heir to House Reigan of Leicester.[N]
 Keeps his plans close to his chest.[X]
 
+##Desc_Hubert
+The heir to House Vestra. Loyal only[N]
+to Edelgard, and cold to all others.[X]
+##Desc_Ferdinand
+The proud heir to House Aegir.[N]
+He won't let you forget his name.[X]
+##Desc_Dorothea
+A talented songstress with a[N]
+sharp disdain for nobility.[X]
+##Desc_Bernadetta
+The reclusive heir to House Varley.[N]
+Timid yet determined.[X]
+##Desc_Petra
+The heir to the throne of Brigid.[N]
+Her foreign tongue belies keen intellect.[X]
+##Desc_Caspar
+The enthusiastic son of Count Bergliez.[N]
+A just man who loves a good fight.[X]
+##Desc_Linhardt
+The heir to House Hevring. A laid-back[N]
+young man with an interest in Crests.[X]
+##Desc_Monica
+The long-missing daughter of Baron[N]
+Ochs. Extremely fond of Edelgard.[X]
+
+##Desc_Dedue
+A stoic man of Duscur, and Dimitri's[N]
+retainer. Calm and gentle.[X]
+##Desc_Felix
+The curt heir to House Fraldarius.[N]
+A cynical man who lives to fight.[X]
+##Desc_Sylvain
+The promiscuous heir to House Gautier.[N]
+Laid-back, yet surprisingly loyal.[X]
+##Desc_Ingrid
+The chivalrous heir to House Galatea.[N]
+Burdened by loss, but highly principled.[X]
+##Desc_Ashe
+The adopeted son of Lord Lonato.[N]
+An optimistic dreamer.[X]
+##Desc_Annette
+A noblewoman of House Dominic.[N]
+Cheerful and hardworking.[X]
+##Desc_Mercedes
+A former noble from Adrestia.[N]
+A devout and caring woman.[X]
+##Desc_Rodrigue
+The head of House Fraldarius.[N]
+Known as the Shield of Faerghus.[X]
+
+##Desc_Lorenz
+The pompous heir to House Gloucester.[N]
+He's mostly humble at heart.[X]
+##Desc_Hilda
+The lazy daughter of House Goneril.[N]
+Surprisingly cunning and skilled.[X]
+##Desc_Leonie
+A mercenary once under Jeralt's[N]
+tutelage. Dilligent and competitive.[X]
+##Desc_Raphael
+The son of a merchant family.[N]
+His heart's as large as his appetite.[X]
+##Desc_Ignatz
+The son of a merchant family.[N]
+Passionate for the arts.[X]
+##Desc_Lysithea
+The studious heir to House Ordelia.[N]
+Wishes to make the most of her life.[X]
+##Desc_Marianne
+The somber heir to House Edmund.[N]
+A pessimist who loves animals.[X]
+##Desc_Holst
+The head of House Goneril, and[N]
+Leicester's most skilled general.[X]
+
+##Desc_Yuri
+A mysterious young man from Abyss.[N]
+Sharp-tongued, yet protective.[X]
+##Desc_Balthus
+The self-proclaimed King of Grappling.[N]
+Constantly finds himself in debt.[X]
+##Desc_Constance
+The heir to the fallen House Nuvelle.[N]
+Haughty in shade, apathetic in sun.[X]
+##Desc_Hapi
+A cynical woman from a hidden village.[N]
+Her mysterious sigh draws monsters.[X]
+
 ##Desc_Byleth
 The famed Ashen Demon, and Shez's[N]
 arch-rival. Quiet and observant.[X]
+##Desc_Jeralt
+The famed Blade Breaker, and Byleth's[N]
+father. An honorable family man.[X]
+##Desc_Catherine
+A senior of the Knights of Seiros.[N]
+Her loyalty is unwavering.[X]
+##Desc_Shamir
+A wandering mercenary working for[N]
+the Knights of Seiros. Independent.[X]
+##Desc_Flayn
+Seteth's young and enthusiastic sister.[N]
+Curious and sociable.[X]
+##Desc_Seteth
+Rhea's right-hand man. A wise[N]
+man who's slow to trust.[X]
+##Desc_Manuela
+A former opera star from the Empire.[N]
+She's a self-described hot mess.[X]
+##Desc_Jeritza
+The face behind the Death Knight.[N]
+A solemn man who cares for his sister.[X]
+##Desc_Sothis
+A mysterious girl residing in[N]
+Byleth's mind. Vengeful.[X]
+##Desc_Rhea
+The Archbishop of the Church[N]
+of Seiros. Dignified.[X]
+##Desc_Arval
+A mysterious being within Shez's mind.[N]
+Their powers are unknown.[X]
+##Desc_Alois
+A longtime friend of Jeralt.[N]
+A jolly wisecracker.[X]
+##Desc_Gilbert
+A remorseful knight of Faerghus.[N]
+Seeks solace in the church.[X]
+##Desc_Cyril
+A young Almyran man who is[N]
+completely loyal to Rhea.[X]
+##Desc_Gatekeeper
+A beloved man who watches the gates.[N]
+Currently has nothing to report.[X]
+##Desc_Nader
+An Almyran general and longtime[N]
+friend of Claude. Undefeated.[X]
+##Desc_Hanneman
+A scholar from the Empire who[N]
+seeks to understand Crests.[X]
+##Desc_Judith
+The famed Hero of Daphnel.[N]
+Claude's trusted advisor.[X]
+##Desc_Randolph
+An Adrestian general who fights[N]
+for the sake of his sister.[X]
+##Desc_Jetz
+One of Jeralt's mercenaries.[N]
+He's just happy to be here.[X]
+##Desc_Anna
+A mysterious merchant following[N]
+Shez's group. Likes money.[X]
+##Desc_Berling
+A mercenary captain, and Shez's[N]
+superior. Seeks fame and glory.[X]
+##Desc_Getz
+One of Berling's mercenaries.[N]
+Has a surprising work ethic.[X]
+##Desc_Lazley
+One of Berling's mercenaries.[N]
+Enjoys a good round of ale.[X]
+##Desc_Miklan
+Sylvain's disinherited brother.[N]
+Embittered yet capable.[X]

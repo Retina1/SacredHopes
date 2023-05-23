@@ -1,0 +1,9 @@
+##Name_JeraltMercs
+Jeralt's[X]
+##Desc_JeraltMercs
+A member of Jeralt's Mercenaries,[N]
+one of the land's most famed troupes.[X]
+
+##Desc_BylethPrologue
+The famed Ashen Demon. A fearsome[N]
+swordswoman under Jeralt's employ.[X]
