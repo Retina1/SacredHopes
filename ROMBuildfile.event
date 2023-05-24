@@ -15,25 +15,25 @@
     #include "Tables/TableInstaller.event"
     MESSAGE Used table space ends at currentOffset
 	
-	//graphics
+	//graphics - swap freespace when installing anims
 	#include "Graphics/Installer.event"
     MESSAGE Used graphic space ends at currentOffset	
 	
     //Engine Hacks
     #include "EngineHacks/_MasterHackInstaller.event"
     MESSAGE Used hax space ends at currentOffset
-
-	#ifdef USE_TEST_MAP
-    //Events
-    #include "Events/Release_map.event"
+	
+	//Events
+    #include "Events/_ChapterEventsInstaller.event"
     #include "Events/WorldMapEvents.event"
 
     //Maps
     #include "Maps/MasterMapInstaller.event"
-    #endif // USE_TEST_MAP
-	
-	ASSERT (FreeSpaceEnd - currentOffset) // So that you don't overwrite vanilla tables if using default freespace
-	
+
+	//Music
+	#include "Music/_Installer.event"
+	MESSAGE Music ends at currentOffset
+		
     MESSAGE Used free space ends at currentOffset
 #else
     ERROR "You are not assembling FE8 events!"

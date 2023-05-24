@@ -127,6 +127,10 @@ a skill when used.[X]
 #include "Chapters.txt"
 #include "Enemies.txt"
 
+#include "DarkDawning/Chapter0.txt"
+
+#include "DeathQuotes.txt"
+
 #include "unitmenu_text.txt"
 
 #include "skilldesc_text.txt"

@@ -1,0 +1,9 @@
+##Ch0ShezBylethBattle
+[OpenMidLeft][LoadByleth]
+Stand down or die.[A][N][ClearFace][OpenMidRight][LoadShez][CloseEyes]
+[ToggleMouthMove](...Why am I so scared?[N]
+It's just... one merc.)[ToggleMouthMove][A][N][OpenEyes]
+We're gonna stand.[N]
+We're gonna fight.[A][N]
+We're gonna avenge[N]
+the captain![A][X]

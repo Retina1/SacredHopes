@@ -1,5 +1,121 @@
+##IronSwordName
+Iron Sword[X]
+##SteelSwordName
+Steel Sword[X]
+##SilverSwordName
+Silver Sword[X]
+##WingthresherName
+Wingthresher[X]
+##DevilSwordName
+Devil Sword[X]
+##AshiyaSwordName
+Ashiya Sword[X]
+##LevinSwordName
+Levin Sword[X]
+##VeninEdgeName
+Venin Edge[X]
+##RapierName
+Rapier[X]
+##ZoltanSwordName ^
+Zoltan's Sword[X]
+##BraveSwordName
+Brave Sword[X]
+##WoDaoName
+Wo Dao[X]
+##KillingEdgeName
+Killing Edge[X]
+##ArmorslayerName
+Armorslayer[X]
+##MercuriusName
+Mercurius[X]
 ##KnightSwordName ^
-Knight Sword[X]
+Knight's Sword[X]
+##AthameName
+Athame[X]
+##RidillName
+Ridill[X]
+##ShamshirName
+Shamshir[X]
+##ThunderbrandName
+Thunderbrand[X]
+##BlutgangName
+Blutgang[X]
+##CreatorSwordName ^
+Creator Sword[X]
+##DarkCreatorSwordName ^
+Dark Creator Swd[X]
+##SeirosSwordName ^
+Seiros's Sword[X]
+##BegaltaSwordName ^
+Begalta's Sword[X]
+##MoraltaSwordName ^
+Moralta's Sword[X]
+
+##IronLanceName
+Iron Lance[X]
+##FlycatcherName
+Flycatcher[X]
+##SteelLanceName
+Steel Lance[X]
+##SilverLanceName
+Silver Lance[X]
+##VeninLanceName
+Venin Lance[X]
+##BraveLanceName
+Brave Lance[X]
+##KillerLanceName
+Killer Lance[X]
+##HorseslayerName
+Horseslayer[X]
+##JavelinName
+Javelin[X]
+##SpearName
+Spear[X]
+##ShortSpearName
+Short Spear[X]
+##BlessedLanceName
+Blessed Lance[X]
+##CrescentSickleName ^
+Crescent Sickle[X]
+##IndraArrowName
+Indra's Arrow[X]
+##ZoltanLanceName ^
+Zoltan's Lance[X]
+##SarielScytheName ^
+Sariel's Scythe[X]
+##GradivusName
+Gradivus[X]
+##LanceOfRuinName ^
+Lance of Ruin[X]
+##AreadbharName
+Areadbhar[X]
+##LuinName
+Luin[X]
+##AssalSpearName ^
+Assal's Spear[X]
+
+##IronAxeName
+Iron Axe[X]
+##SteelAxeName
+Steel Axe[X]
+##HandAxeName
+Hand Axe[X]
+
+##IronBowName
+Iron Bow[X]
+##SteelBowName
+Steel Bow[X]
+
+##FireName
+Fire[X]
+##BolganoneName
+Bolganone[X]
+##RagnarokName
+Ragnarok[X]
+
+##VulneraryName
+Vulnerary[X]
+
 
 ##DarkSpikesName
 Dark Spikes[X]

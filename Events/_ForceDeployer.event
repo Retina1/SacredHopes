@@ -1,0 +1,18 @@
+#define ForceDeployEntry(unit,chapterID) "SHORT unit; BYTE 0xFF chapterID"
+#define EndForceDeploy "SHORT 0xFFFF 0x00"
+
+ALIGN 4
+ForceDeployList:
+ForceDeployEntry(ShezP,0xFF)
+ForceDeployEntry(ShezSB,0xFF)
+ForceDeployEntry(ShezAG,0xFF)
+ForceDeployEntry(ShezGW,0xFF)
+ForceDeployEntry(Edelgard,0xFF)
+ForceDeployEntry(Dimitri,0xFF)
+ForceDeployEntry(Claude,0xFF)
+EndForceDeploy
+
+PUSH
+ORG 0x8483C
+POIN ForceDeployList
+POP

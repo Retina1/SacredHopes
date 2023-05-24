@@ -1,0 +1,19 @@
+##ShezDeathQuote
+[OpenMidRight][LoadShez]
+Did my life[ToggleMouthMove]...[ToggleMouthMove][N]
+even have meaning[ToggleMouthMove]...[ToggleMouthMove]?[A][CloseEyes][X]
+
+##BerlingDeathQuote
+[OpenMidRight][LoadBerling]
+No[ToggleMouthMove]...[ToggleMouthMove] Just when my dream[ToggleMouthMove]...[ToggleMouthMove][N]
+was finally in sight[ToggleMouthMove]...[ToggleMouthMove][A][N][CloseEyes]
+You[ToggleMouthMove]...[ToggleMouthMove] monster[ToggleMouthMove]...[ToggleMouthMove][A][X]
+
+##GetzDeathQuote
+[OpenMidRight][LoadGetz]
+Argh! [ToggleMouthMove]...[ToggleMouthMove]Run[ToggleMouthMove]...[ToggleMouthMove] Run while[N]
+you can[ToggleMouthMove]...[ToggleMouthMove][A][CloseEyes][X]
+
+##LazleyDeathQuote
+[OpenMidRight][LoadLazley]
+What? Captain[ToggleMouthMove]...[ToggleMouthMove] How[ToggleMouthMove]...[ToggleMouthMove][A][CloseEyes][X]

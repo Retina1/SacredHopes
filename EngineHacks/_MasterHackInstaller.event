@@ -60,7 +60,7 @@ POP
   #include "QualityOfLife/HpBars/HpBars.event"
 
   //Improved Sound Mixer
-  #include "QualityOfLife/ImprovedSoundMixer/SoundMixer.event"
+  //#include "QualityOfLife/ImprovedSoundMixer/SoundMixer.event"
 
   //Danger Zone (select button)
   #include "QualityOfLife/DangerZone/DangerZone.event"
@@ -230,3 +230,4 @@ POP
 #include "FixedAutolevels.event"
 #include "NewPromoGains.lyn.event"
 #include "NoUnbreakableDurability.lyn.event"
+#include "SacredHopes/MMB/Installers/MMBInstallerDefault.event"
